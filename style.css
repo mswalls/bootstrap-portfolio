@@ -3,13 +3,19 @@
     margin-bottom: 60px; 
   }
   .footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 60px; 
     line-height: 60px;
     background-color: #223d4431;
     text-align: center;
+    
    
   }
   
+  .well {
+    border: solid 1px;
+    padding: 10px;
+
+  }
